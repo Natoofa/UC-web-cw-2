@@ -1,0 +1,19 @@
+h1{
+color: #e7c6ff;
+    text-align: center;
+}
+
+h2{
+font-size: 50px;
+}
+
+.card{
+    width: 500px;
+    background-color:#faedcd;
+    text-align: center;
+}
+
+#dish-name{
+color: white;
+}
+ 
